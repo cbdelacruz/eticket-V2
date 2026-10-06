@@ -51,6 +51,8 @@ Replace the sample procedure names with the exact names already used by your leg
 4. Start the backend and frontend.
 5. Point both at the same SQL Server 2022 database and reuse the existing stored procedures.
 
+For a complete, step-by-step local setup on a new Windows computer, see [Set Up eTicketing on a New Windows Computer](./SETUP.md). The guide includes the required SQL Server drivers and important database safety notes.
+
 ## Notes
 
 - This project intentionally keeps the database and procedure layer in the legacy system as the source of truth.
